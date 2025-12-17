@@ -1,0 +1,18 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Generated files
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Package lock (do not commit for packages)
+pubspec.lock

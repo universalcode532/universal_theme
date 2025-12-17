@@ -1,0 +1,13 @@
+name: universal_theme
+description: Reusable theme controller & UI with GetX
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.6
+  shared_preferences: ^2.2.2
+  flutter_colorpicker: ^1.0.3
